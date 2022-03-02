@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+.intro {
+	font-family: Helvetica, Arial,sans-serif;
+	font: inherit;
+	color: yellowgreen
+}
+
+body{
+	padding:0;
+	margins:0;
+	background-color: #e2f8f5
+}
+
+img{
+	position: absolute
+}
+
+.background{
+  left: 30px;
+  top: 4px;
+  width: 721px;
+  height: 1076px;
+  z-index: 3;
+}
+
+.femaleglasses{
+  left: 116px;
+  top: 336px;
+  width: 495px;
+  height: 174px;
+  z-index: 13;
+}
+
+.femalelips{
+  left: 311px;
+  top: 615px;
+  width: 160px;
+  height: 74px;
+  z-index: 34;
+}
+
+.link3{
+	 left: 311px;
+  top: 615px;
+  width: 160px;
+  height: 74px;
+  z-index: 34;
+}
+

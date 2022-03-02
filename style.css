@@ -1,0 +1,124 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.intro {
+	font-family: Helvetica, Arial,sans-serif;
+	font: inherit;
+	color: yellowgreen
+}
+
+body{
+	padding:0;
+	margins:0;
+	background-color: #e2f8f5
+}
+
+img{
+	position: absolute
+}
+
+.background{
+  left: 30px;
+  top: 4px;
+  width: 721px;
+  height: 1076px;
+  z-index: 3;
+}
+
+.femaleglasses{
+  left: 116px;
+  top: 336px;
+  width: 495px;
+  height: 174px;
+  z-index: 13;
+	visibility: hidden;
+}
+
+.femalelips{
+  left: 311px;
+  top: 615px;
+  width: 160px;
+  height: 74px;
+  z-index: 34;
+	visibility: hidden
+}
+
+.olderwoman{
+  left: 378px;
+  top: 1088px;
+  width: 1601px;
+  height: 1067px;
+  z-index: 8;
+	visibility: hidden;
+}
+
+.femalelips2{
+  left: -257px;
+  top: 209px;
+  width: 2550px;
+  height: 2777px;
+  z-index: 32;
+	visibility: hidden;
+}
+
+.femalemodel{
+  left: 171px;
+  top: -219px;
+  width: 2751px;
+  height: 4032px;
+  z-index: 2;
+	visibility: hidden;
+}
+
+.mustache{
+  left: 254px;
+  top: 539px;
+  width: 269px;
+  height: 100px;
+  z-index: 26;
+	visibility: hidden
+}
+
+.hair{
+  left: 30px;
+  top: 4px;
+  width: 659px;
+  height: 678px;
+  z-index: 38;
+	visibility: hidden
+}
+
+.maleglasses{
+  left: 171px;
+  top: 392px;
+  width: 437px;
+  height: 119px;
+  z-index: 34;
+	visibility: hidden
+}
+
+.smile{
+  left: -835px;
+  top: -521px;
+  width: 2550px;
+  height: 3264px;
+  z-index: 35;
+	visibility: hidden;
+}
+
+.nose{
+  left: 327px;
+  top: 415px;
+  width: 138px;
+  height: 202px;
+  z-index: 22;
+	visibility: hidden
+}
+
+.link{
+  left: 30px;
+  top: 4px;
+  width: 721px;
+  height: 1076px;
+  z-index: 3;
+}

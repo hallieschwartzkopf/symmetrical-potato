@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.intro {
+	font-family: Helvetica, Arial,sans-serif;
+	font: inherit;
+	color: yellowgreen
+}
+
+body{
+	padding:0;
+	margins:0;
+	background-color: #e2f8f5
+}
+
+img{
+	position: absolute
+}
+
+.link9{
+  left: 359px;
+  top: 240px;
+  width: 276px;
+  height: 222px;
+  z-index: 50;
+}
+
